@@ -1,0 +1,1 @@
+https://gale.udemy.com/course/apache-kafka-for-beginners/learn/lecture/17425986#overview

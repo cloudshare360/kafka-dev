@@ -3,6 +3,7 @@
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 https://gale.udemy.com/course/apache-kafka-for-beginners/learn/lecture/17425986#overview
+
 Producer is an application that sends data. - Message or message Record
 It is a smal to medium sized piece of data
 
