@@ -1,12 +1,4 @@
-![Alt text](image.png)
-
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
-
-![Alt text](image-3.png)
-
-![Alt text](image-4.png)
+![alt text](image.png)
 
 Producer is an application that sends data. - Message or message Record
 It is a smal to medium sized piece of data
@@ -35,3 +27,4 @@ row as a message.
 
 
 ![What is a Consumer](image-5.png)
+
