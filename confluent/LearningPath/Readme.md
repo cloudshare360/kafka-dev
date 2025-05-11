@@ -3,6 +3,8 @@
 This will contain learning path  
 [https://www.confluent.io/training/#learning-paths](https://www.confluent.io/training/#learning-paths)
 
+Resources:
+
 [https://training.confluent.io/learningpath-viewer/5365/1/199138/2](https://training.confluent.io/learningpath-viewer/5365/1/199138/2)
 
 What Kafka Developer Does?
@@ -13,3 +15,19 @@ What Kafka Developer Does?
 *   APIs
 *   Schema
 *   Business Apps
+
+One should know
+
+*   **A Conceptual Knowledge of Kafka**
+*   Kafka Fundamentals
+    *   [Fundamentals \[Self Paced Training & Accreditation\]](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) 
+        *   [**https://developer.confluent.io/courses/apache-kafka/events/**](https://developer.confluent.io/courses/apache-kafka/events/)
+*   **Confluent.io**
+
+**Courses Link:** [**https://developer.confluent.io/courses/**](https://developer.confluent.io/courses/)
+
+<table><tbody><tr><td>Srno</td><td>Course</td><td>Link</td><td>&nbsp;</td></tr><tr><td>1</td><td>Kafka 101 - Fundamentals</td><td>https://developer.confluent.io/courses/apache-kafka/events/</td><td>&nbsp;</td></tr><tr><td>2</td><td><h3><a href="https://developer.confluent.io/courses/apache-flink/intro/">Apache Flink® 101</a></h3></td><td>https://developer.confluent.io/courses/apache-flink/intro/</td><td>&nbsp;</td></tr><tr><td>3</td><td>Kafka Steams 101</td><td>https://developer.confluent.io/courses/kafka-streams/get-started/</td><td>&nbsp;</td></tr><tr><td>4</td><td><h3><a href="https://developer.confluent.io/courses/schema-registry/key-concepts/">Schema Registry 101</a></h3></td><td>https://developer.confluent.io/courses/schema-registry/key-concepts/</td><td>&nbsp;</td></tr><tr><td>5</td><td>Kafka Connect</td><td>https://developer.confluent.io/courses/kafka-connect/intro/</td><td>&nbsp;</td></tr><tr><td>6&nbsp;</td><td>KSQL DB 101</td><td>https://developer.confluent.io/courses/ksqldb/intro/</td><td>&nbsp;</td></tr><tr><td>7&nbsp;</td><td>Flink SQL</td><td>https://developer.confluent.io/courses/flink-sql/overview/</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+
+Intermediate Level
+
+urs
