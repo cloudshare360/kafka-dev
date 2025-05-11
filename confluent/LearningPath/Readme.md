@@ -18,28 +18,46 @@ What Kafka Developer Does?
 
 One should know
 
-*   **A Conceptual Knowledge of Kafka**
-*   Kafka Fundamentals
-    *   [Fundamentals \[Self Paced Training & Accreditation\]](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) 
-        *   [**https://developer.confluent.io/courses/apache-kafka/events/**](https://developer.confluent.io/courses/apache-kafka/events/)
-*   **Confluent.io**
-*   **A Conceptual Knowledge of Building Applications**
-*   **Overview of Confluent Platform**
+**A Conceptual Knowledge of Kafka**
 
-*   **Developer.confluent.io**
-*   **Kafka Producer Apps**
-*   **Kafka Broker**
-*   **Kafka Consumer Apps**
-    *   Consumer groups
-    *   Scaling
-    *   Fail-over
-    *   Much more
+Kafka Fundamentals
+
+*   [Fundamentals \[Self Paced Training & Accreditation\]](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) 
+    *   [**https://developer.confluent.io/courses/apache-kafka/events/**](https://developer.confluent.io/courses/apache-kafka/events/)
+
+**Confluent.io**
+
+**A Conceptual Knowledge of Building Applications**
+
+**Overview of Confluent Platform**
+
+**Developer.confluent.io**
+
+**Kafka Producer Apps**
+
+**Kafka Broker**
+
+**Kafka Consumer Apps**
+
+*   Consumer groups
+*   Scaling
+*   Fail-over
+*   Much more
 
 **Courses Link:** [**https://developer.confluent.io/courses/**](https://developer.confluent.io/courses/)
 
 **\[Links to Kafka Resources\](https://html.cdn.contentraven.com/crcloud/uploads/confluent_11192/encryptedfile/197831/v1.0/module-3.html)**
 
-**Get Specifics: https://html.cdn.contentraven.com/crcloud/uploads/confluent_11192/encryptedfile/195391/v1.0/module-3.html**
+**Get Specifics:** [**https://html.cdn.contentraven.com/crcloud/uploads/confluent_11192/encryptedfile/195391/v1.0/module-3.html**](https://html.cdn.contentraven.com/crcloud/uploads/confluent_11192/encryptedfile/195391/v1.0/module-3.html)
+
+### **Connector types**
+
+*   **Sink:** Exporting data
+*   **Source:** Importing data
+*   **Transforms:** Simple message transformations
+*   **Converters:** Utilities
+
+**https://training.confluent.io/activity-dashboard**
 
 <table><tbody><tr><td>Srno</td><td>Course</td><td>Link</td><td>&nbsp;</td></tr><tr><td>1</td><td>Kafka 101 - Fundamentals</td><td>https://developer.confluent.io/courses/apache-kafka/events/</td><td>&nbsp;</td></tr><tr><td>2</td><td><h3><a href="https://developer.confluent.io/courses/apache-flink/intro/">Apache Flink® 101</a></h3></td><td>https://developer.confluent.io/courses/apache-flink/intro/</td><td>&nbsp;</td></tr><tr><td>3</td><td>Kafka Steams 101</td><td>https://developer.confluent.io/courses/kafka-streams/get-started/</td><td>&nbsp;</td></tr><tr><td>4</td><td><h3><a href="https://developer.confluent.io/courses/schema-registry/key-concepts/">Schema Registry 101</a></h3></td><td>https://developer.confluent.io/courses/schema-registry/key-concepts/</td><td>&nbsp;</td></tr><tr><td>5</td><td>Kafka Connect</td><td>https://developer.confluent.io/courses/kafka-connect/intro/</td><td>&nbsp;</td></tr><tr><td>6&nbsp;</td><td>KSQL DB 101</td><td>https://developer.confluent.io/courses/ksqldb/intro/</td><td>&nbsp;</td></tr><tr><td>7&nbsp;</td><td>Flink SQL</td><td>https://developer.confluent.io/courses/flink-sql/overview/</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
