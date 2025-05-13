@@ -1,1 +1,40 @@
-{"image":"mcr.microsoft.com/devcontainers/base:ubuntu"}
+{
+  "name": "Universal Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/universal:1-focal",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17"
+    },
+    "ghcr.io/devcontainers-contrib/features/node-js:1": {
+      "version": "lts"
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.10"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.fontSize": 16,
+        "window.titleBarStyle": "native", // Always shows native menu bar
+        "workbench.activityBar.visible": true, // Ensures side bar icons are visible
+        "workbench.startupEditor": "none",
+        "editor.wordWrap": "on"
+      },
+      "extensions": [
+        "rebornix.Ruby",
+        "ms-dotnettools.csharp",
+        "visualstudioexptteam.vscodeintellicode",
+        "dbaeumer.vscode-eslint",
+        "octref.vetur", // Vue support
+        "angular.ng-template", // Angular Language Service
+        "facebook-labs-java.intellij-react-native-for-vscode", // React Native Snippets
+        "tomoki1207.pdf", // PDF Viewer
+        "streetsidesoftware.code-spell-checker",
+        "henryqin.paste-image" // Paste Image
+      ]
+    }
+  },
+  "postCreateCommand": "echo '✅ Universal environment is ready!'",
+  "remoteUser": "vscode"
+}
