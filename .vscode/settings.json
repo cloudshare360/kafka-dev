@@ -1,7 +1,6 @@
 {
   "editor.fontSize": 16,
   "window.titleBarStyle": "native",
-  "workbench.activityBar.visible": true,
   "editor.wordWrap": "on",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
