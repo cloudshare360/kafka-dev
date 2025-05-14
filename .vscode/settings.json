@@ -1,5 +1,17 @@
 {
+<<<<<<< HEAD
     "editor.fontSize": 16,
     "window.titleBarStyle": "native",
     "editor.wordWrap": "on"
   }
+=======
+  "editor.fontSize": 16,
+  "window.titleBarStyle": "native",
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
+>>>>>>> 4b48224476e43cfdf015660261398809a05b0da4

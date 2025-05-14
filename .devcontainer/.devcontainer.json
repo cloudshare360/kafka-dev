@@ -16,6 +16,7 @@
     "vscode": {
       "settings": {
         "editor.fontSize": 16,
+<<<<<<< HEAD
         "window.titleBarStyle": "native", // Always shows native menu bar
         "workbench.activityBar.visible": true, // Ensures side bar icons are visible
         "workbench.startupEditor": "none",
@@ -32,6 +33,29 @@
         "tomoki1207.pdf", // PDF Viewer
         "streetsidesoftware.code-spell-checker",
         "henryqin.paste-image" // Paste Image
+=======
+        "window.titleBarStyle": "native",
+        "workbench.activityBar.visible": true,
+        "editor.wordWrap": "on",
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "terminal.integrated.profiles.linux": {
+          "bash": {
+            "path": "/bin/bash",
+            "args": []
+          }
+        }
+      },
+      "extensions": [
+        "ms-dotnettools.csharp",
+        "dbaeumer.vscode-eslint",
+        "octref.vetur",
+        "angular.ng-template",
+        "facebook-labs-java.intellij-react-native-for-vscode",
+        "tomoki1207.pdf",
+        "henryqin.paste-image",
+        "streetsidesoftware.code-spell-checker",
+        "kamikillerto.vscode-always-show-menu"
+>>>>>>> 4b48224476e43cfdf015660261398809a05b0da4
       ]
     }
   },
